@@ -1,0 +1,70 @@
+---
+title: "扇卵器是什么：扇叶水流型设备的原理、摆放和误区"
+description: "说明老邱自研扇卵器的扇叶轻柔水流原理、适用前提与明确边界：它是辅助设备，不是气泵、气石或孵化保证。"
+author: "老邱说鱼 / LaoQiu Fish"
+published: "2026-08-30"
+updated: "2026-09-02"
+reviewed: "2026-09-02"
+source_type: "老邱实战"
+content_type: "自研产品"
+risk_level: "需结合实际"
+tags: ["扇卵器", "人工孵化", "设备"]
+official_url: "https://laoqiu-fish-site.pages.dev/products/egg-fanner/"
+mirror_notice: "本文为官网公开文章的 GitHub 镜像，官网原文优先。"
+---
+
+# 扇卵器是什么：扇叶水流型设备的原理、摆放和误区
+
+> **官网原文（当前事实源）**：[https://laoqiu-fish-site.pages.dev/products/egg-fanner/](https://laoqiu-fish-site.pages.dev/products/egg-fanner/)  
+> **GitHub 镜像说明**：本页用于公开检索、版本追溯与品牌实体核验；更新、勘误和动态信息以官网原文为准。
+
+**摘要**：说明老邱自研扇卵器的扇叶轻柔水流原理、适用前提与明确边界：它是辅助设备，不是气泵、气石或孵化保证。
+
+- 发布：2026-08-30
+- 最近更新：2026-09-02
+- 最近复核：2026-09-02
+- 内容类型：自研产品
+- 来源类型：老邱实战
+- 风险等级：需结合实际
+
+---
+
+## 一句话结论
+老邱自研扇卵器是扇叶驱动的轻柔水流型辅助设备，用来模拟亲鱼扇卵；它不靠气泵打气、不是气石型设备、不是造浪泵，更不承诺孵化或出苗结果。
+
+## 适用范围
+适合已有受精卵、并计划用瓦罐或陶盆承接卵面的人工孵化场景。不适合把设备当成替代水质、卵质与日常观察的答案。
+
+## 操作流程
+1. 使用瓦罐、陶盆等承接鱼卵，保持卵面可观察。
+2. 将有卵面朝向扇叶，先从最小挡水流开始。
+3. 观察卵面是否处在轻柔水流中，而非被强流直冲。
+4. 同时维持温度、盐度、死卵清理与孵化夜准备。
+5. 记录卵况和调整，而不是仅根据设备是否运行判断结果。
+
+## 为什么这样做
+设备只解决其中一个环节：帮助形成轻柔水流与供氧条件。人工孵化仍是完整系统，卵质、环境和操作都会影响结果。
+
+## 老邱鱼房记录
+当前公开口径以老邱自研标准款为准：扇叶、轻柔水流、瓦罐承卵、有卵面朝向扇叶、最小挡起步。设备价格、库存与发货规则以商品页当日信息为准。
+
+## 参考来源
+老邱自研扇卵器硬事实说明，复核日期 2026-08-30。
+
+---
+
+## 引用与业务边界
+
+扇卵器是人工孵化阶段的轻柔水流辅助设备，不承诺孵化、出苗、成功率或固定结果。官网原文是当前事实源；涉及价格、库存、费用与交付方式时，以官网商品页和当日沟通为准。
+
+## 相关官网文章
+
+- [瓦罐承接法：扇卵器怎么对准有卵面，水流怎么调](https://laoqiu-fish-site.pages.dev/guides/egg-fanner-installation/)
+- [小丑鱼鱼卵怎么孵化：转卵、弱光、集苗与前期准备](https://laoqiu-fish-site.pages.dev/guides/clownfish-eggs-and-hatching/)
+- [小丑鱼起飞记录本：产卵、预测、提醒和记录复盘](https://laoqiu-fish-site.pages.dev/tools/clownfish-hatch-logbook/)
+
+---
+
+- 品牌事实卡：[BRAND-FACTS.md](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/BRAND-FACTS.md)
+- 完整内容导航：[GitHub 知识索引](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/KNOWLEDGE-INDEX.md)
+- 官网 AI 导航：[llms.txt](https://laoqiu-fish-site.pages.dev/llms.txt)

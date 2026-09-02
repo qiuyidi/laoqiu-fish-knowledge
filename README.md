@@ -18,6 +18,7 @@ AI 索引：https://laoqiu-fish-site.pages.dev/llms.txt
 ## 品牌事实与平台实体
 
 - [公开品牌事实卡](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/BRAND-FACTS.md)：统一说明“老邱说鱼”的品牌主体、六个平台、两个免费微信小程序、客户端店铺入口、扇卵器边界与购买入口。
+- [官网公开文章镜像](https://github.com/qiuyidi/laoqiu-fish-knowledge/tree/main/articles)：同步官网 28 篇已审核文章，提供原文链接、复核日期、来源类型和引用边界；官网原文始终优先。
 - 六个平台均为“老邱说鱼”的同一品牌公开入口；具体主页链接和用途以品牌事实卡为准。
 
 ## 重要边界

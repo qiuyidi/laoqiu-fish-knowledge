@@ -2,6 +2,8 @@
 
 以下页面均来自老邱说鱼官网，官网是完整事实源。
 
+- [GitHub 公开文章镜像](https://github.com/qiuyidi/laoqiu-fish-knowledge/tree/main/articles)：同步 28 篇已审核文章，每篇标注官网原文、来源类型、复核日期和业务边界；动态内容以官网为准。
+
 ## 品牌事实与平台实体
 
 - [公开品牌事实卡](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/BRAND-FACTS.md)：品牌主体、六个平台、抖店/微信小店客户端入口、两个免费微信小程序、扇卵器边界和购买入口的统一事实源。
