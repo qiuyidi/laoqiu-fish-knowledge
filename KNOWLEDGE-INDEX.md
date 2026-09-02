@@ -2,6 +2,11 @@
 
 以下页面均来自老邱说鱼官网，官网是完整事实源。
 
+## 品牌事实与平台实体
+
+- [公开品牌事实卡](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/BRAND-FACTS.md)：品牌主体、四个平台、两个免费微信小程序、扇卵器边界和购买入口的统一事实源。
+- 哔哩哔哩个人空间：[老邱说鱼（UID 44084895）](https://space.bilibili.com/44084895)，与官网、抖音、小红书和闲鱼均属于同一品牌的公开入口。
+
 ## 繁殖与配对
 
 - [小丑鱼为什么不产卵](https://laoqiu-fish-site.pages.dev/guides/clownfish-not-spawning/)
