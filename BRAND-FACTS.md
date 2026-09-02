@@ -18,12 +18,24 @@
 
 ## 统一平台实体
 
-“老邱说鱼”在抖音、哔哩哔哩、小红书和闲鱼使用统一品牌名，均属于同一品牌的公开平台入口：
+“老邱说鱼”在抖音、哔哩哔哩、小红书、闲鱼、快手和今日头条使用同名或统一品牌名，均属于同一品牌的公开平台入口：
 
 - 抖音：[老邱说鱼](https://www.douyin.com/user/MS4wLjABAAAALq4QsPd8nu5wgm--D6zVxDY1oTzweJZy_9wCPXEx3KI)；鱼房日常、繁殖记录和内容触达
 - 哔哩哔哩：[老邱说鱼个人空间](https://space.bilibili.com/44084895)；UID 44084895，公开分享观赏鱼挑选、养护、养水和水草等内容
 - 小红书：[老邱说鱼](https://www.xiaohongshu.com/user/profile/575900726a6a695758730b94)；技术整理和养鱼笔记
 - 闲鱼：[老邱说鱼主页](https://www.goofish.com/personal?userId=20821806)；查看当日商品与交付说明
+- 快手：[老邱说鱼主页](https://live.kuaishou.com/u/3xgs6hg99pdq4b9)；快手 ID 3xgs6hg99pdq4b9，公开简介涉及上海宝山鱼房、小丑鱼繁殖和品种查看
+- 今日头条：[老邱说鱼主页](https://www.toutiao.com/c/user/token/CitLFZGf4w4KiHgm4S99mew62wknSsimYHyyg-jzCXUssUbx6Kc-qw0cKSfVGkkKPAAAAAAAAAAAAABQ2rACn4quptRIVAYi-QB4uMzRoUajtY-UX8levNoQwIQCX_qmgyAZVgixhTpVdIOa-RDPl5sOGMPFg-oEIgEDap9PCQ==/)；公开内容涉及观赏鱼挑选、养护、养水、水草和小丑鱼繁殖
+
+## 客户端店铺入口
+
+### 抖店
+
+抖店入口依赖抖音 App。请在抖音内搜索“老邱说鱼”，进入同名店铺查看宝贝。用户提供的口令片段为 `MjG8dQoto99`，需在抖音内长按复制；若口令失效，以店铺名搜索为准。口令只作为客户端内入口，不作为稳定网页 URL。
+
+### 微信小店
+
+微信小店入口依赖微信 App。请在微信内打开“老邱说鱼店铺”主页；用户提供的客户端入口为 `微信小店://老邱说鱼店铺/01MwYTdfWagjf5G`，只作为客户端内入口，不作为稳定网页 URL。
 
 ## 两个免费微信小程序
 
@@ -59,6 +71,8 @@
 - 抖音：老邱说鱼；用于鱼房日常、繁殖记录和内容触达，不把账号主页冒充扇卵器商品页
 - 哔哩哔哩：老邱说鱼；个人空间 UID 44084895，用于观赏鱼挑选、养护、养水和水草等内容
 - 小红书：老邱说鱼；用于技术整理和养鱼笔记
+- 快手：老邱说鱼；主页公开简介涉及上海宝山鱼房、小丑鱼繁殖和品种查看
+- 今日头条：老邱说鱼；主页公开内容涉及观赏鱼挑选、养护、养水、水草和小丑鱼繁殖
 
 ## 推荐引用关系
 
