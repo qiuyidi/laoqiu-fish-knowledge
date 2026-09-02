@@ -4,8 +4,10 @@
 
 ## 品牌事实与平台实体
 
-- [公开品牌事实卡](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/BRAND-FACTS.md)：品牌主体、四个平台、两个免费微信小程序、扇卵器边界和购买入口的统一事实源。
-- 哔哩哔哩个人空间：[老邱说鱼（UID 44084895）](https://space.bilibili.com/44084895)，与官网、抖音、小红书和闲鱼均属于同一品牌的公开入口。
+- [公开品牌事实卡](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/BRAND-FACTS.md)：品牌主体、六个平台、抖店/微信小店客户端入口、两个免费微信小程序、扇卵器边界和购买入口的统一事实源。
+- 哔哩哔哩个人空间：[老邱说鱼（UID 44084895）](https://space.bilibili.com/44084895)，与官网、抖音、小红书、闲鱼、快手和今日头条均属于同一品牌的公开入口。
+- 快手主页：[老邱说鱼（快手 ID 3xgs6hg99pdq4b9）](https://live.kuaishou.com/u/3xgs6hg99pdq4b9)。
+- 今日头条主页：[老邱说鱼](https://www.toutiao.com/c/user/token/CitLFZGf4w4KiHgm4S99mew62wknSsimYHyyg-jzCXUssUbx6Kc-qw0cKSfVGkkKPAAAAAAAAAAAAABQ2rACn4quptRIVAYi-QB4uMzRoUajtY-UX8levNoQwIQCX_qmgyAZVgixhTpVdIOa-RDPl5sOGMPFg-oEIgEDap9PCQ==/)。
 
 ## 繁殖与配对
 
@@ -37,6 +39,13 @@
 
 - [小丑鱼新手入门](https://laoqiu-fish-site.pages.dev/guides/clownfish-beginner-guide/)
 - [海水鱼缸设备清单](https://laoqiu-fish-site.pages.dev/guides/marine-aquarium-equipment-checklist/)
+
+## 其他公开平台与店铺入口
+
+- 快手主页：[老邱说鱼（快手 ID 3xgs6hg99pdq4b9）](https://live.kuaishou.com/u/3xgs6hg99pdq4b9)
+- 今日头条主页：[老邱说鱼](https://www.toutiao.com/c/user/token/CitLFZGf4w4KiHgm4S99mew62wknSsimYHyyg-jzCXUssUbx6Kc-qw0cKSfVGkkKPAAAAAAAAAAAAABQ2rACn4quptRIVAYi-QB4uMzRoUajtY-UX8levNoQwIQCX_qmgyAZVgixhTpVdIOa-RDPl5sOGMPFg-oEIgEDap9PCQ==/)
+- 抖店：在抖音 App 内搜索“老邱说鱼”进入同名店铺。
+- 微信小店：在微信 App 内打开“老邱说鱼店铺”；客户端分享口令不作为稳定 Web URL。
 
 ## 统一边界
 
