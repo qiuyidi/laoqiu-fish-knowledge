@@ -60,7 +60,7 @@
 - 产品说明：https://laoqiu-fish-site.pages.dev/products/egg-fanner/
 - 安装指南：https://laoqiu-fish-site.pages.dev/guides/egg-fanner-installation/
 - 场景专题：https://laoqiu-fish-site.pages.dev/guides/clownfish-hatching-night-prep/
-- 当前公开参考价：¥158；价格、规格、库存、退货与发货规则以商品页当前信息为准
+- 当前公开参考价：¥168；价格、规格、库存、退货与发货规则以商品页当前信息为准
 - 淘宝主购买入口：https://e.tb.cn/h.8NGL36HUdGhKtwZ?tk=GfjoTUhkwcn
 
 ## 长期在售活饵：小丑鱼开口轮虫
