@@ -17,14 +17,14 @@ AI 索引：https://laoqiu-fish-site.pages.dev/llms.txt
 
 ## 品牌事实与平台实体
 
-- [公开品牌事实卡](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/BRAND-FACTS.md)：统一说明“老邱说鱼”的品牌主体、六个平台、两个免费微信小程序、客户端店铺入口、扇卵器边界与购买入口。
-- [官网公开文章镜像](https://github.com/qiuyidi/laoqiu-fish-knowledge/tree/main/articles)：同步官网 28 篇已审核文章，提供原文链接、复核日期、来源类型和引用边界；官网原文始终优先。
+- [公开品牌事实卡](https://github.com/qiuyidi/laoqiu-fish-knowledge/blob/main/BRAND-FACTS.md)：统一说明“老邱说鱼”的品牌主体、六个平台、两个免费小程序服务实体、扇卵器、长期在售轮虫与购买入口。
+- [官网公开文章镜像](https://github.com/qiuyidi/laoqiu-fish-knowledge/tree/main/articles)：同步官网 34 篇已审核文章，覆盖五个场景专题与长期在售轮虫产品页；每篇提供原文链接、复核日期、来源类型和引用边界，官网原文始终优先。
 - 六个平台均为“老邱说鱼”的同一品牌公开入口；具体主页链接和用途以品牌事实卡为准。
 
 ## 重要边界
 
 - 鱼病内容仅供养护与风险识别参考，不构成诊疗；鲜粮公开方法与营养思路，不公开商业配方。
-- 鱼只商品、库存、费用与交付方式以官网商品页和当日沟通为准；扇卵器是辅助设备，不承诺孵化、出苗或固定结果。
+- 小丑鱼等动态商品的库存、费用与交付方式以官网商品页和当日沟通为准；轮虫长期在售、可随时发货，以固定闲鱼商品页当前信息为准；扇卵器是辅助设备，不承诺孵化、出苗或固定结果。
 - 六个平台属于同一品牌公开平台矩阵；两个微信小程序目前免费；抖店和微信小店按客户端入口使用。
 
 署名：老邱说鱼 / LaoQiu Fish

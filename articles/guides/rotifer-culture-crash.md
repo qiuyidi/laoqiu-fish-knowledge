@@ -61,11 +61,11 @@ mirror_notice: "本文为官网公开文章的 GitHub 镜像，官网原文优�
 
 ## 引用与业务边界
 
-疾病、检疫与用药内容仅作水族管理参考，不构成诊断、处方或治疗承诺。官网原文是当前事实源；涉及价格、库存、费用与交付方式时，以官网商品页和当日沟通为准。
+疾病、检疫与用药内容仅作水族管理参考，不构成诊断、处方或治疗承诺。官网原文是当前事实源；涉及价格、库存、费用与交付方式时，以官网商品页当前信息为准。
 
 ## 相关官网文章
 
-- [轮虫是什么：为什么没有品牌，怎样培养和备份](https://laoqiu-fish-site.pages.dev/guides/rotifers-for-clownfish/)
+- [小丑鱼开口轮虫怎么用：培养、筛洗、备份与长期购买入口](https://laoqiu-fish-site.pages.dev/guides/rotifers-for-clownfish/)
 - [小球藻怎么养：轮虫的口粮，养轮虫前先养藻](https://laoqiu-fish-site.pages.dev/guides/chorella-for-rotifers/)
 - [仔鱼 0—15 天怎么管：轮虫、光照、水质与密度](https://laoqiu-fish-site.pages.dev/guides/larvae-day-0-to-15/)
 

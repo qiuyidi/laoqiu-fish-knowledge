@@ -2,7 +2,7 @@
 
 以下页面均来自老邱说鱼官网，官网是完整事实源。
 
-- [GitHub 公开文章镜像](https://github.com/qiuyidi/laoqiu-fish-knowledge/tree/main/articles)：同步 28 篇已审核文章，每篇标注官网原文、来源类型、复核日期和业务边界；动态内容以官网为准。
+- [GitHub 公开文章镜像](https://github.com/qiuyidi/laoqiu-fish-knowledge/tree/main/articles)：同步 34 篇已审核文章，新增工具服务实体、五个场景专题与长期在售轮虫产品页；每篇标注官网原文、来源类型、复核日期和业务边界，动态内容以官网为准。
 
 ## 品牌事实与平台实体
 
@@ -28,12 +28,24 @@
 - [轮虫培养崩溃怎么办](https://laoqiu-fish-site.pages.dev/guides/rotifer-culture-crash/)
 - [小球藻怎么养](https://laoqiu-fish-site.pages.dev/guides/chorella-for-rotifers/)
 - [轮虫与小丑鱼幼鱼开口](https://laoqiu-fish-site.pages.dev/guides/rotifers-for-clownfish/)
+- [长期在售的小丑鱼开口轮虫](https://laoqiu-fish-site.pages.dev/products/rotifers/)
 
 ## 营养与鲜粮
 
 - [鲜粮与颗粒饲料的差异](https://laoqiu-fish-site.pages.dev/research/clownfish-fresh-food-vs-pellets/)
 - [种鱼营养与产卵](https://laoqiu-fish-site.pages.dev/research/clownfish-broodstock-nutrition/)
 - [鲜粮研发与繁殖观察](https://laoqiu-fish-site.pages.dev/research/fresh-food-versioning/)
+
+## 新手水族与工具场景
+
+- [新手开缸记录](https://laoqiu-fish-site.pages.dev/guides/aquarium-new-tank-cycle/)
+- [海水新鱼检疫记录](https://laoqiu-fish-site.pages.dev/guides/marine-fish-quarantine-record/)
+- [换水前后记录](https://laoqiu-fish-site.pages.dev/guides/aquarium-water-change-record/)
+- [淡水鱼白点记录](https://laoqiu-fish-site.pages.dev/guides/freshwater-white-spot-record/)
+- [极客水族管家](https://laoqiu-fish-site.pages.dev/tools/geek-aquarium-manager/)
+- [小丑鱼起飞前夜准备](https://laoqiu-fish-site.pages.dev/guides/clownfish-hatching-night-prep/)
+- [小丑鱼起飞记录本](https://laoqiu-fish-site.pages.dev/tools/clownfish-hatch-logbook/)
+- [扇卵器产品说明](https://laoqiu-fish-site.pages.dev/products/egg-fanner/)
 
 ## 新手海缸
 
@@ -42,4 +54,4 @@
 
 ## 统一边界
 
-六个平台属于同一品牌公开平台矩阵；两个微信小程序目前免费；鱼病内容仅供养护与风险识别参考，不构成诊疗；鱼只商品、库存、费用与交付方式以官网商品页和当日沟通为准；鲜粮不公开商业配方；扇卵器不承诺孵化、出苗或固定结果。
+六个平台属于同一品牌公开平台矩阵；两个微信小程序目前免费；鱼病内容仅供养护与风险识别参考，不构成诊疗；轮虫为长期在售、可随时发货的固定活饵产品，其他动态商品以官网商品页和当日沟通为准；鲜粮不公开商业配方；扇卵器不承诺孵化、出苗或固定结果。

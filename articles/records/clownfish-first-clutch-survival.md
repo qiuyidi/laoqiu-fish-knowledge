@@ -56,13 +56,13 @@ mirror_notice: "本文为官网公开文章的 GitHub 镜像，官网原文优�
 
 ## 引用与业务边界
 
-官网原文是当前事实源；涉及价格、库存、费用与交付方式时，以官网商品页和当日沟通为准。
+官网原文是当前事实源；涉及价格、库存、费用与交付方式时，以官网商品页当前信息为准。
 
 ## 相关官网文章
 
 - [起飞当晚的失败复盘：重新建立的检查清单](https://laoqiu-fish-site.pages.dev/records/first-night-larvae-loss-review/)
 - [小丑鱼人工繁殖全流程：从配对到仔鱼起飞](https://laoqiu-fish-site.pages.dev/guides/clownfish-breeding-process/)
-- [轮虫是什么：为什么没有品牌，怎样培养和备份](https://laoqiu-fish-site.pages.dev/guides/rotifers-for-clownfish/)
+- [小丑鱼开口轮虫怎么用：培养、筛洗、备份与长期购买入口](https://laoqiu-fish-site.pages.dev/guides/rotifers-for-clownfish/)
 
 ---
 
