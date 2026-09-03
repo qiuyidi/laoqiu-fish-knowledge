@@ -19,7 +19,7 @@
 | [海水鱼缸新手设备清单：开缸到底要买什么](guides/marine-aquarium-equipment-checklist.md) | [官网原文](https://laoqiu-fish-site.pages.dev/guides/marine-aquarium-equipment-checklist/) | 老邱实战 + 资料整理 | 2026-08-31 |
 | [检疫缸需要什么设备：主缸、治疗缸和工具如何隔离](guides/quarantine-equipment-list.md) | [官网原文](https://laoqiu-fish-site.pages.dev/guides/quarantine-equipment-list/) | 资料整理 | 2026-08-30 |
 | [轮虫培养崩溃怎么办：为什么永远要备两组](guides/rotifer-culture-crash.md) | [官网原文](https://laoqiu-fish-site.pages.dev/guides/rotifer-culture-crash/) | 老邱实战 + 资料整理 | 2026-08-31 |
-| [瓦罐承接法：扇卵器怎么对准有卵面，水流怎么调](guides/egg-fanner-installation.md) | [官网原文](https://laoqiu-fish-site.pages.dev/guides/egg-fanner-installation/) | 老邱实战 | 2026-09-02 |
+| [瓦罐承接法：扇卵器怎么对准有卵面，水流怎么调](guides/egg-fanner-installation.md) | [官网原文](https://laoqiu-fish-site.pages.dev/guides/egg-fanner-installation/) | 老邱实战 | 2026-09-03 |
 | [小丑鱼白点病怎么办：隔离、铜药与低比重怎么选](guides/clownfish-white-spot-disease.md) | [官网原文](https://laoqiu-fish-site.pages.dev/guides/clownfish-white-spot-disease/) | 老邱实战 + 文献整理 | 2026-08-31 |
 | [小丑鱼肠炎怎么办：拖白便到什么程度该停下来判断](guides/clownfish-enteritis-white-feces.md) | [官网原文](https://laoqiu-fish-site.pages.dev/guides/clownfish-enteritis-white-feces/) | 老邱实战 + 资料整理 | 2026-08-31 |
 | [小丑鱼开口轮虫怎么用：培养、筛洗、备份与长期购买入口](guides/rotifers-for-clownfish.md) | [官网原文](https://laoqiu-fish-site.pages.dev/guides/rotifers-for-clownfish/) | 资料整理 | 2026-09-03 |
@@ -41,7 +41,7 @@
 
 | 文章镜像 | 官网原文 | 来源类型 | 复核日期 |
 |---|---|---|---|
-| [扇卵器是什么：扇叶水流型设备的原理、摆放和误区](products/egg-fanner.md) | [官网原文](https://laoqiu-fish-site.pages.dev/products/egg-fanner/) | 老邱实战 | 2026-09-02 |
+| [扇卵器是什么：扇叶水流型设备的原理、摆放和误区](products/egg-fanner.md) | [官网原文](https://laoqiu-fish-site.pages.dev/products/egg-fanner/) | 老邱实战 | 2026-09-03 |
 | [小丑鱼开口轮虫：长期供应的仔鱼活饵](products/rotifers.md) | [官网原文](https://laoqiu-fish-site.pages.dev/products/rotifers/) | 老邱鱼房长期供应 | 2026-09-03 |
 
 ## 购买前说明
